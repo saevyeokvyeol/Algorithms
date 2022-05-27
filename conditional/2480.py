@@ -15,7 +15,7 @@ elif num[1] == num[2]:
 else:
   result = max(num) * 100
 
-# print(result)
+print(result)
 
 # 참고해 다시 푼 코드
 num = sorted(list(map(int, sys.stdin.readline().split())))
@@ -23,11 +23,9 @@ num = sorted(list(map(int, sys.stdin.readline().split())))
 # 따라서 elif 단계가 하나 줄어든다
 result = 0
 
-if num[0] == num[1] == num[2]:
+if num[0] == num[1] == num[2]: # 세 수를 한꺼번에 비교할 수도 있다
   result = 10000 + num[0] * 1000
-elif num[0] == num[1]:
-  result = 1000 + num[0] * 100
-elif num[1] == num[2]:
+elif num[0] == num[1] or num[1] == num[2]:
   result = 1000 + num[1] * 100
 else:
   result = max(num) * 100
