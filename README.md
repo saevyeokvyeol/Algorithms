@@ -1,7 +1,6 @@
-# BOJ
+# 알고리즘 공부
 
-백준 온라인 저지 코드 기록
-문제 분류는 백준 단계별로 풀어보기 기준으로 단계가 없는 문제는 알아서 분류합니다
+알고리즘 풀이 코드 기록
 
 - 입출력과 사칙연산: [https://github.com/yudaGim/BOJ/tree/main/IO](https://github.com/yudaGim/BOJ/tree/main/IO)
 - 조건문: [https://github.com/yudaGim/BOJ/tree/main/conditional](https://github.com/yudaGim/BOJ/tree/main/conditional)
