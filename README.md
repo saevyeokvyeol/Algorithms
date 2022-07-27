@@ -15,6 +15,7 @@
 
 - [기하학](https://github.com/yudaGim/Algorithms/tree/main/BOJ/geometry)
 - [그리디 알고리즘](https://github.com/yudaGim/Algorithms/tree/main/BOJ/greedy)
+- [브루트포스 알고리즘](https://github.com/yudaGim/Algorithms/tree/main/BOJ/bruteforce)
 
 ## 프로그래머스
 - [연습문제](https://github.com/yudaGim/Algorithms/tree/main/programmers/practise)
