@@ -7,5 +7,4 @@ def convert(num, n):
 
 for i in range(2992, 10000):
     if convert(i, 10) == convert(i, 12) == convert(i, 16):
-        print(convert(i, 10), convert(i, 12), convert(i, 16))
         print(i)
