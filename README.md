@@ -8,7 +8,6 @@
 - [반복문](https://github.com/yudaGim/BOJ/tree/main/iteration)
 - [1차원 배열](https://github.com/yudaGim/BOJ/tree/main/one_dimention_array)
 - [함수](https://github.com/yudaGim/BOJ/tree/main/function)
-- [문자열](https://github.com/yudaGim/BOJ/tree/main/String)
 - [기본 수학](https://github.com/yudaGim/BOJ/tree/main/basic_math)
 - [재귀](https://github.com/yudaGim/BOJ/tree/main/recursion_function)
 <br>
@@ -16,6 +15,7 @@
 - [기하학](https://github.com/yudaGim/Algorithms/tree/main/BOJ/geometry)
 - [그리디 알고리즘](https://github.com/yudaGim/Algorithms/tree/main/BOJ/greedy)
 - [브루트포스 알고리즘](https://github.com/yudaGim/Algorithms/tree/main/BOJ/bruteforce)
+- [문자열](https://github.com/yudaGim/BOJ/tree/main/string)
 
 ## 프로그래머스
 - [연습문제](https://github.com/yudaGim/Algorithms/tree/main/programmers/practise)
