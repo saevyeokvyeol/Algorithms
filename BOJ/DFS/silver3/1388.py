@@ -13,9 +13,8 @@ def gyesan(x, y, s):
         gyesan(x + dx, y + dy, badak[x][y])
         return True
 
-# for i in range(n):
-#     for j in range(m):
-#         if gyesan(i, j, badak[i][j]):
-#             r += 1
-# print(r)
-print(result)
+for i in range(n):
+    for j in range(m):
+        if gyesan(i, j, badak[i][j]):
+            r += 1
+print(r)
