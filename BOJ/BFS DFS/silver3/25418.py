@@ -21,5 +21,3 @@ while k > a:
         k -= 1
         result += 1
 print(result)
-
-# 풀이 3 BFS
