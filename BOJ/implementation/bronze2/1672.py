@@ -5,6 +5,5 @@ n = int(input())
 s = input()
 end = s[-1]
 for i in s[::-1][1:]:
-    print(i)
     end = dna[a[i]][a[end]]
 print(end)
